@@ -14,3 +14,4 @@ $        node scripts/main.js $
 Nota: node es el interprete de java en google chrone
 
 4. Creamos una plantilla de html ----> Crtl + space ----> HTML sample
+5. Inspeccionar el mensaje "Hola Mundo" de index.html en el explorador con f12
