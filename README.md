@@ -18,3 +18,4 @@ Nota: node es el interprete de java en google chrone
 6. Crear una varible y ejecutarlo si se desea
 $        tsc main.ts -outDir scripts $
 $        node scripts/main.js $
+7. Uso de string y variables
