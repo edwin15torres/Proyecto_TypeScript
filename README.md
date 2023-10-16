@@ -25,3 +25,4 @@ $        node scripts/main.js $
 
 1. Operación básica de números.
 2. Valores indefinidos.
+3. Valores a partir de funciones

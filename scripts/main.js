@@ -26,3 +26,9 @@ function imprimirMensaje2(msj) {
 }
 imprimirMensaje();
 imprimirMensaje2("Mensaje parámetro");
+function sumar(op1, op2) {
+    return op1 + op2;
+}
+var fSumar = sumar;
+console.log(sumar(10, 15));
+console.log(fSumar(20, 25));

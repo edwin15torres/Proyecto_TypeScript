@@ -37,3 +37,12 @@ function imprimirMensaje2(msj:string): void {
 
 imprimirMensaje();
 imprimirMensaje2("Mensaje parámetro");
+
+function sumar(op1: number, op2: number): number{
+    return op1+op2;
+}
+
+var fSumar = sumar;
+
+console.log(sumar(10,15));
+console.log(fSumar(20,25));
