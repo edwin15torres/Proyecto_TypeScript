@@ -20,3 +20,20 @@ varTipoDesconocido = "Ahora hay un texto";
 console.log(`variable tiene valor ${varTipoDesconocido} y es de tipo ${typeof(varTipoDesconocido)}`);
 varTipoDesconocido = 2.8;
 console.log(`variable tiene valor ${varTipoDesconocido} y es de tipo ${typeof(varTipoDesconocido)}`);
+
+let varTipoIndefinido: undefined;
+varTipoIndefinido = null;
+
+let varVoid: void = undefined; 
+console.log(`variable tiene valor ${varVoid} y es de tipo ${typeof(varVoid)}`);
+//varVoid  = 10; // los void no tiene ningún retorno
+function imprimirMensaje(): void{
+    console.log("Mensaje genérico");
+}
+
+function imprimirMensaje2(msj:string): void {
+    console.log(msj);
+}
+
+imprimirMensaje();
+imprimirMensaje2("Mensaje parámetro");
