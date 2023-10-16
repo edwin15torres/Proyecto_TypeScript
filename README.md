@@ -9,4 +9,8 @@ $        tsc main.ts -outDir scripts $
 3. Ejecutarlo
 $        node . \scripts\main.js
 $        node ./scripts/main.js
-$        node scripts/main.js
+$        node scripts/main.js $
+
+Nota: node es el interprete de java en google chrone
+
+4. Creamos una plantilla de html ----> Crtl + space ----> HTML sample
