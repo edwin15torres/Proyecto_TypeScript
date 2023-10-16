@@ -19,3 +19,8 @@ Nota: node es el interprete de java en google chrone
 $        tsc main.ts -outDir scripts $
 $        node scripts/main.js $
 7. Uso de string y variables
+
+
+# Tarea 2: Tipos básicos: number y creación de funciones.
+
+1. Operación básica de números
