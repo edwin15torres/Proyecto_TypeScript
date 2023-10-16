@@ -23,4 +23,5 @@ $        node scripts/main.js $
 
 # Tarea 2: Tipos básicos: number y creación de funciones.
 
-1. Operación básica de números
+1. Operación básica de números.
+2. Valores indefinidos.
