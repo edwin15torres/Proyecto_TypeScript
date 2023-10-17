@@ -30,3 +30,7 @@ $        node scripts/main.js $
 # Tarea 3: Declaración de clases e instanciación de objetos
 
 1. Alistar carpeta
+2. Crear modelo contructor, instancia, arc. comp y html
+3. Ejecutar
+$        tsc -p ./tsconfing.json        $
+4. Descargar la extensión "Live Server" para abrir un html desde un servidor
