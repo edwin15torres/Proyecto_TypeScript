@@ -31,6 +31,6 @@ $        node scripts/main.js $
 
 1. Alistar carpeta
 2. Crear modelo contructor, instancia, arc. comp y html
-3. Ejecutar
+3. Ejecutar:
 $        tsc -p ./tsconfing.json        $
-4. Descargar la extensión "Live Server" para abrir un html desde un servidor
+4. Descargar la extensión "Live Server (Ritwick Dey)" para abrir un html desde un servidor
